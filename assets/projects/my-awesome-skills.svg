@@ -3,12 +3,12 @@
   <desc id="desc">Reusable skills for learning, creating, and getting useful work done.</desc>
   <rect width="600" height="310" rx="26" fill="#0d1117" />
   <rect x="1" y="1" width="598" height="308" rx="25" fill="none" stroke="#30363d" stroke-width="2" />
-  <rect x="0" y="0" width="600" height="7" rx="3.5" fill="#f2b84b" />
-  <text x="38" y="70" fill="#f2b84b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="700">my-awesome-skills</text>
+  <rect x="0" y="0" width="600" height="7" rx="3.5" fill="#F3A6C8" />
+  <text x="38" y="70" fill="#F3A6C8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="700">my-awesome-skills</text>
   <text x="562" y="70" fill="#768390" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">↗</text>
   <text x="38" y="130" fill="#9da7b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">Reusable skills for learning,</text>
   <text x="38" y="164" fill="#9da7b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">creating, and getting useful</text>
   <text x="38" y="198" fill="#9da7b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">work done.</text>
-  <circle cx="47" cy="261" r="7" fill="#3178c6" />
+  <circle cx="47" cy="261" r="7" fill="#F3A6C8" />
   <text x="66" y="268" fill="#768390" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">TypeScript</text>
 </svg>
